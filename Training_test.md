@@ -158,3 +158,17 @@ Cordialement,
 sentiment : positif ;
 Pourquoi : excellent service et bon service en ligne
 
+
+
+## CHALLENGE
+
+### TEST 
+
+#### Input : 
+
+Chers responsables du service client, 
+Je vous écris pour exprimer ma grande déception concernant mon compte bancaire. Malheureusement, les frais supplémentaires imprévus et les erreurs répétées dans mes relevés m'ont laissé une impression d'incompétence et de négligence de votre part. J'attends de ma banque un service fiable et transparent, ce qui n'a malheureusement pas été le cas jusqu'à présent. J'espère que vous prendrez rapidement des mesures pour résoudre ces problèmes et regagner ma confiance en tant que client. Votre prompte action est vivement souhaitée. 
+Cordialement,
+
+Stéphanie DUPONT 
+0633659864
