@@ -1,4 +1,4 @@
-r# PROMPTATHON
+# PROMPTATHON
 
 ## Summary Bullet
 
