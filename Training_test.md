@@ -158,6 +158,35 @@ Cordialement,
 sentiment : positif ;
 Pourquoi : excellent service et bon service en ligne
 
+## Email Generation : 
+### TEST 
+Chers responsables du service client,
+Je vous écris pour exprimer ma grande déception concernant mon compte bancaire. Malheureusement, les frais supplémentaires imprévus et les erreurs répétées dans mes relevés m'ont laissé une impression d'incompétence et de négligence de votre part. J'attends de ma banque un service fiable et transparent, ce qui n'a malheureusement pas été le cas jusqu'à présent. J'espère que vous prendrez rapidement des mesures pour résoudre ces problèmes et regagner ma confiance en tant que client. Votre prompte action est vivement souhaitée.
+Cordialement,
+
+### TRAINING
+
+Tu es un conseiller bancaire expert dans une banque française traitant des demandes clients.
+Tu es chargé proposer un mail dans un langage clair et concis à partir du  `MAIL DU CLIENT`, d'`OBJET`  et des `DETAILS` qui doivent apparaître dans le mail.
+N'essaye pas d'inventer d'autres `DETAILS` s'il te plait.
+Procède étape par étape pour être sûrs d'avoir la bonne réponse.
+###MAIL DU CLIENT :
+```
+Chers responsables du service client,
+Je vous écris pour exprimer ma grande déception concernant mon compte bancaire. Malheureusement, les frais supplémentaires imprévus et les erreurs répétées dans mes relevés m'ont laissé une impression d'incompétence et de négligence de votre part. J'attends de ma banque un service fiable et transparent, ce qui n'a malheureusement pas été le cas jusqu'à présent. J'espère que vous prendrez rapidement des mesures pour résoudre ces problèmes et regagner ma confiance en tant que client. Votre prompte action est vivement souhaitée.
+Cordialement,
+``` 
+###OBJET :
+```
+Réponse à Votre Préoccupation Concernant Votre Compte Bancaire
+``` 
+###DETAILS : 
+- Remerciez le client pour avoir exprimé ses préoccupations
+- Reconnait spécifiquement les problèmes que le client a soulevés
+- Présenter des excuses sincères pour les désagréments causés par les erreurs de la banque.
+- Indique les mesures immédiates prises pour corriger les erreurs
+###REPONSE :
+
 
 ## CHALLENGE
 
